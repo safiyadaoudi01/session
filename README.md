@@ -6,46 +6,61 @@ Login
   inscription:
 
   
-  ![Capture d’écran 2023-10-14 231009](https://github.com/safiyadaoudi01/TpHibernate/assets/120654774/1fa07656-9915-4282-934d-9f74dce9127f)
- 
-  
-  
-  connexion
+  ![cal](https://github.com/safiyadaoudi01/session/assets/120654774/23852697-ee13-48eb-b9cc-319f07ec9da1)     ![cal2](https://github.com/safiyadaoudi01/session/assets/120654774/ee8c751e-7920-4d11-ab77-55e0a1a224a8)
 
   
-  ![Capture d’écran 2023-10-14 230707](https://github.com/safiyadaoudi01/TpHibernate/assets/120654774/202bc27a-c194-45c8-9d9d-048afc398de1)
- 
+  ![inscription](https://github.com/safiyadaoudi01/session/assets/120654774/f912979e-afaf-4c93-9a26-2bb041715312)
+  
+
  
   
-  oublier le mot de passe
+  
+  connexion:
 
   
-  ![Capture d’écran 2023-10-14 231048](https://github.com/safiyadaoudi01/TpHibernate/assets/120654774/cacb45f3-f6fd-4fd7-a2bc-9c9f228cd2a7)
+
+  ![session1](https://github.com/safiyadaoudi01/session/assets/120654774/6b02e585-6472-48de-b9d5-104f77634d8a)
+
+ 
+ 
+  
+  oublier le mot de passe:
+  
+
+  ![envoicode](https://github.com/safiyadaoudi01/session/assets/120654774/929ca12f-4e1c-46d1-8420-1f36a593bf71)
+
  
  
   
   code de validation:
 
+  ![verificationCode](https://github.com/safiyadaoudi01/session/assets/120654774/b45f2f1c-5dde-4d7a-aee1-9995ffea5195)
+
   
-  ![Capture d’écran 2023-10-14 231144](https://github.com/safiyadaoudi01/TpHibernate/assets/120654774/f0705bac-25c1-4b03-8103-7f9a5f81e7db)
+  
+
+  ![saisicode](https://github.com/safiyadaoudi01/session/assets/120654774/9d9b6956-3c65-40e0-b313-d35119b49153)
+
  
  
   
   géneration de nouveau mot de passe:
-
   
-  ![Capture d’écran 2023-10-14 231208](https://github.com/safiyadaoudi01/TpHibernate/assets/120654774/dbd59bdd-c087-499c-9cc5-cfe8541de08d)
+
+  ![newmdp](https://github.com/safiyadaoudi01/session/assets/120654774/6af661f4-dd17-4837-a530-5d372cca92b3)
+
  
  
   
   côté client:
-
   
-  ![Capture d’écran 2023-10-14 230727](https://github.com/safiyadaoudi01/TpHibernate/assets/120654774/0daa6b6d-d65e-4e8c-a7d6-be1aa66d67ab)
+
+  ![session2](https://github.com/safiyadaoudi01/session/assets/120654774/4255248c-15ce-415b-865e-7b548814a0f0)
+
  
   
   
   côté employé:
 
   
-  ![Capture d’écran 2023-10-14 230816](https://github.com/safiyadaoudi01/TpHibernate/assets/120654774/d3b114ee-92af-46ee-9dcc-13ebcc5443d4)
+![employe](https://github.com/safiyadaoudi01/session/assets/120654774/69bc3965-5d2b-41ab-b1bd-a311af6217e4)
